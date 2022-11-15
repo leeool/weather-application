@@ -7,5 +7,5 @@ Find weather info from your city
 - Is day or night
 - Save your last search
 
-![app-demo](//imgur.com/a/56i16hN)
+<img src="https://media.giphy.com/media/wjYAfbAMuNTDud4eiN/giphy.gif">
 
