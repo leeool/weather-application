@@ -15,7 +15,7 @@ const fetchData = async (url) => {
     const response = await fetch(url)
 
     if (!response.ok) {
-      throw new Error("Não foi possivel obter os dados da API11")
+      throw new Error("Não foi possivel obter os dados da API")
     }
 
     return response.json()
